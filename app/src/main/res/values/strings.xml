@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MobileAndroidDevTestWork</string>
+
+    <string name="sort_order_date_descending">Date desc</string>
+    <string name="sort_order_date_ascending">Date asc</string>
+    <string name="sort_order_price_descending">Price desc</string>
+    <string name="sort_order_price_ascending">Price asc</string>
+    <string name="sort_order_amount_descending">Amount desc</string>
+    <string name="sort_order_amount_ascending">Amount asc</string>
+    <string name="sort_order_side_descending">Side desc</string>
+    <string name="sort_order_side_ascending">Side asc</string>
 </resources>
